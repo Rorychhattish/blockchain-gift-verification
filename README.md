@@ -50,7 +50,7 @@ Blockchain-Gift-List/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Rorychhattish/blockchain-gift-list.git
+git clone https://github.com/Rorychhattish/blockchain-gift-verification.git
 cd Blockchain-Gift-List
 ```
 
