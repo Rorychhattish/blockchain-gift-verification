@@ -35,7 +35,6 @@ The application demonstrates how Merkle Trees can be used for efficient and secu
 ```text
 Blockchain-Gift-List/
 │
-├── client/          # Legacy Node.js client (for testing)
 ├── server/          # Express backend server
 ├── frontend/        # React frontend application
 ├── utils/           # Merkle Tree and verification utilities
@@ -51,7 +50,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Rorychhattish/blockchain-gift-verification.git
-cd Blockchain-Gift-List
+cd blockchain-gift-verification
 ```
 
 Install backend dependencies:
@@ -123,17 +122,17 @@ Merkle Root
 Gift Verification
 ```
 
-## 🎯 Learning Objectives
+## 📚 Key Concepts
 
-This project demonstrates:
-
-* Merkle Tree construction
-* Merkle Proof generation
-* Proof verification
-* Client-server architecture
-* Blockchain-inspired authentication mechanisms
+- Merkle Tree construction
+- Merkle Proof generation
+- Proof verification
+- Client-server communication
+- Blockchain-inspired authentication
+- Cryptographic hashing
 
 
 ## 👨‍💻 Author
 
-**RoryChhattish**
+**Chhatish Kumar Sah**
+GitHub: https://github.com/Rorychhattish
